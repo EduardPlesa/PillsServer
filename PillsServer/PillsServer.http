@@ -1,0 +1,6 @@
+@PillsServer_HostAddress = http://localhost:5240
+
+GET {{PillsServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
